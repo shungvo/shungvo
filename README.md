@@ -41,6 +41,49 @@
 
 ---
 
+### 💼 Experience
+
+#### **Software Engineer**  
+**KIT System Solutions Vietnam** — *June 2024 – Present*  
+- Developed and maintained a sales management system for Japanese clients using **Node.js**, **Express.js**, and **React.js**.
+- Designed and implemented secure, scalable **RESTful APIs** with authentication and authorization.
+- Consistently met deadlines and delivered results aligned with client requirements.
+
+**Project: KIT Website**  
+- **Role**: Frontend Developer  
+- **Tech**: Next.js, Tailwind CSS, microCMS, TypeScript  
+- **Tasks**:
+  - Built responsive UI components using **Next.js** and **Tailwind CSS**
+  - Integrated content from **microCMS**, optimized for **SEO**
+  - Collaborated across teams to ensure consistent UI/UX and data integration
+
+---
+
+### 📦 Projects
+
+#### **Long-term Bus Ticket Booking System**  
+*03/2024 – 06/2024*  
+- **Tech**: React Native, Express.js, MongoDB, Node.js  
+- **Role**: Fullstack Developer  
+- Designed and built mobile UI and backend API for long-distance bus booking
+- Set up CRUD, authentication, and trip management features
+- Delivered with an **A grade** for university project
+
+#### **Shopping Website**  
+*07/2023 – 11/2023*  
+- **Tech**: React.js, Express.js, MongoDB, Mongoose  
+- **Role**: Fullstack Developer  
+- Designed DB schema with **Draw.io** + **Mongoose**, built REST API
+- Developed frontend with **React.js** using **Figma** mockups
+
+
+### 📜 Certificates & Awards
+
+- **TOEIC – 630** (March 2024) – Intermediate English proficiency
+- 🥉 **Vietnam Student Olympiad – Third Prize** (2021) – Quang Nam DOE  
+- 🥉 **Vietnam Science & Engineering Fair – Third Prize** (2021) – Duy Tan University  
+  → Built a platform to help farmers sell local products directly to buyers
+
 ### 📈 GitHub Stats
 
 <p align="center" display="flex">

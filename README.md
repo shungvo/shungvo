@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm [Your Name or Handle]</h1>
+<h1 align="center">Hi there 👋, I'm Hung Vo</h1>
 <p align="center">
-  Backend Engineer | Golang Enthusiast | Indie Maker
+  Software Engineer
 </p>
 
 ---

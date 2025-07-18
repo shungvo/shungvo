@@ -44,11 +44,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shungvo&show_icons=true&theme=radical" alt="shungvo's github stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shungvo&layout=compact&theme=radical" alt="Top languages" />
 </p>
----
 
 ### 🌱 Currently Learning
 

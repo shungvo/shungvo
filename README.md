@@ -43,7 +43,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=shungvo&show_icons=true&theme=radical" alt="shungvo's github stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shungvo&layout=compact&theme=radical" alt="Top languages" />

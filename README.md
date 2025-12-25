@@ -95,11 +95,6 @@
 - 🥉 **Vietnam Science & Engineering Fair – Third Prize** (2021) – Duy Tan University  
   → Built a platform to help farmers sell local products directly to buyers
 
-### 📈 GitHub Stats
-
-<p align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=shungvo&show_icons=true&theme=radical" alt="shungvo's github stats" />
-</p>
 
 ### 🌱 Currently Learning
 
